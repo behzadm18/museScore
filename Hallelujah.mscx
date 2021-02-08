@@ -17,6 +17,7 @@
       <pageTwosided>0</pageTwosided>
       <staffDistance>7.25714</staffDistance>
       <minSystemDistance>11.52</minSystemDistance>
+      <useStandardNoteNames>0</useStandardNoteNames>
       <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -25,7 +26,7 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composer"></metaTag>
-    <metaTag name="copyright">https://musescore.com/user/27481749/scores/6126593</metaTag>
+    <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-01-11</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
@@ -91,6 +92,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="66"/>
           <controller ctrl="7" value="127"/>
@@ -108,7 +110,9 @@
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>sax tenor</text>
+          <text>tenor sax
+get base from https://musescore.com/user/27481749/scores/6126593
+</text>
           </Text>
         </VBox>
       <Measure>

@@ -167,8 +167,6 @@
         <maxPitchP>96</maxPitchP>
         <minPitchA>60</minPitchA>
         <maxPitchA>96</maxPitchA>
-        <transposeDiatonic>-7</transposeDiatonic>
-        <transposeChromatic>-12</transposeChromatic>
         <instrumentId>wind.reed.harmonica</instrumentId>
         <Articulation>
           <velocity>100</velocity>
@@ -211,7 +209,6 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="22"/>
           <synti>Fluid</synti>
@@ -4496,35 +4493,35 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>61</pitch>
+              <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>59</pitch>
+              <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>57</pitch>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>56</pitch>
+              <pitch>68</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
@@ -4535,7 +4532,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>57</pitch>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
@@ -5367,13 +5364,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>

@@ -257,6 +257,10 @@
             <root>18</root>
             <base>22</base>
             </Harmony>
+          <SystemText>
+            <offset x="-27.8358" y="-2.80025"/>
+            <text>1st x Guitar intro (8-bar)</text>
+            </SystemText>
           <Rest>
             <dots>1</dots>
             <durationType>eighth</durationType>
